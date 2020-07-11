@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src = "https://pbs.twimg.com/profile_banners/244965762/1556380520/1500x500" >
+
+# About
+
+Welcome to my GitHub.
+
+## Links
+- GitHub: https://github.com/YangWenLong123
+- yuque : https://www.yuque.com/along-n3gko
