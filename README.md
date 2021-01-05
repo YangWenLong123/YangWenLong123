@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src = "http://cdn.zsdx.cn/test/custom-dm.jpeg" >
+<img src = "//cdn.zsdx.cn/test/custom-dm.jpeg" >
 
 # About
 
