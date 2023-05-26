@@ -15,7 +15,8 @@
 
 # About
 
-Welcome to my GitHub.
+I am 18 years old this year。
+My personality is very outgoing.
 
 ## Links
 - yuque : https://www.yuque.com/along-n3gko
