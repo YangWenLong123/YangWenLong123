@@ -1,4 +1,4 @@
-### Hi 👋
+### Hi Welcome to my GitHub 👋
 
 <!-- Here are some ideas to get you started:
 
@@ -12,8 +12,6 @@
 - ⚡ Fun fact: ... -->
 
 <img src = "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-24a8791b-4615-4dfa-af84-73c65b54fbac/650bd502-9f67-4358-a254-ee389026455d.gif" >
-
-<img style="width: 240px" src = "https://github.com/YangWenLong123/YangWenLong123/assets/37095223/85f5d262-c775-49bc-8122-295323d547c1" >
 
 # About
 
