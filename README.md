@@ -19,5 +19,5 @@ I am 18 years old this year。
 My personality is very outgoing.
 
 ## Links
-- yuque : https://www.yuque.com/along-n3gko
-- boke : http://www.alongweb.top
+- 语雀 : https://www.yuque.com/along-n3gko
+- 程序员盒子 : http://www.alongweb.top
