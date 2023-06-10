@@ -24,5 +24,5 @@ My personality is very outgoing.
 - 程序员盒子 : http://www.alongweb.top
 - 程序员盒子工具库 : http://xyz.alongweb.top (开发中)
 - 程序员盒子接口文档 : http://abc.alongweb.top (未开发)
-- 媳妇点餐 : http://food.alongweb.top (未开发)
-- 媳妇点餐后台配置 : http://config.alongweb.top (未开发)
+- 点餐系统H5 : http://food.alongweb.top (未开发)
+- 点餐系统后台管理 : http://config.alongweb.top (未开发)
