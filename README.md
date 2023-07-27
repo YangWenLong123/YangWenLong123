@@ -23,7 +23,6 @@ My personality is very outgoing.
 ## Community website 👻
 - 程序员盒子 : http://www.alongweb.top
 - 程序员盒子工具库 : http://xyz.alongweb.top
-- 图片上传系统接口 : http://abc.alongweb.top:3000/upload/get
-- 程序员盒子接口文档 : http://abc.alongweb.top (未开发)
+- 程序员盒子系统接口 : [http://abc.alongweb.top:3000/upload/get](https://github.com/YangWenLong123/cxy-web-imges#readme)
 - 点餐系统H5 : http://food.alongweb.top (未开发)
 - 点餐系统后台管理 : http://config.alongweb.top (未开发)
