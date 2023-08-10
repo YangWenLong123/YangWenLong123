@@ -1,6 +1,6 @@
 ### Hi Welcome to my GitHub 👋
 
-<img height="340px" src = "https://github.com/YangWenLong123/YangWenLong123/assets/37095223/94e42824-dfa0-49c1-8809-e6875a993202" >
+<img height="340px" src = "https://along-1254323745.cos.ap-nanjing.myqcloud.com/35439506-c083-432d-87b8-c6d633f0f694--8f51725778cd4a669bf49684f52b851b_tplv-k3u1fbpfcp-zoom-1.jpg" >
 
 <!-- Here are some ideas to get you started:
 
@@ -25,6 +25,6 @@ My personality is very outgoing.
 - 程序员盒子工具库 : http://xyz.alongweb.top
 - 程序员盒子图片上传 : http://xyz.alongweb.top/upload
 - 程序员盒子系统接口 : http://xyz.alongweb.top/swagger
-- 小程序快速构建模版 : [cxy-applet](https://github.com/YangWenLong123/cxy-applet)
+- 小程序快速构建模版 : [cxy-applet](https://github.com/YangWenLong123/cxy-applet) , [cxy-applet-vue3](https://github.com/YangWenLong123/cxy-applet-vue3)
 - 点餐系统H5 : http://food.alongweb.top (未开发)
 - 点餐系统后台管理 : http://config.alongweb.top (未开发)
