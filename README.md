@@ -14,6 +14,6 @@ My personality is very outgoing.
 - 😋点餐系统H5 : http://food.alongweb.top (开发中)
 - 🍚点餐系统后台管理 : http://config.alongweb.top (开发中)
 - 🪟程序员盒子Chrome插件 : [cxy-chrome-box](https://github.com/YangWenLong123/cxy-chrome-box) (开发中)
-- 🐲vue3快速构建模版 : https://github.com/YangWenLong123/cxy-pre-vue (开发中)
-- 🔥react快速构建模版 : https://github.com/YangWenLong123/cxy-pre-react (开发中)
+- 🐲vue3知识库 : https://github.com/YangWenLong123/cxy-pre-vue (开发中)
+- 🔥react知识库 : https://github.com/YangWenLong123/cxy-pre-react (开发中)
 
