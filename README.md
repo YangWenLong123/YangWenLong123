@@ -17,4 +17,5 @@ My personality is very outgoing.
 - 🪟程序员盒子Chrome插件 : [cxy-chrome-box](https://github.com/YangWenLong123/cxy-chrome-box) (开发中)
 - 🐲vue3知识库 : [vue3知识库](http://www.alongweb.top/vue3/)
 - 🔥react知识库 : https://github.com/YangWenLong123/cxy-pre-react (开发中)
+- 🔥url截图服务 : [puppeteer生成屏幕快照](https://github.com/YangWenLong123/cxy-screenshot)
 
