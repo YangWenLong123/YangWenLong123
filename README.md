@@ -1,10 +1,4 @@
-# Hi Welcome to my GitHub 👋
+# 嗨～ 欢迎来到我的github 👏👏👏
 
-## About Me 👿
-I am 18 years old this year。  
-My personality is very outgoing.
-
-## Community website 👻
-- ☢️程序员盒子 : http://www.alongweb.top
 
 
